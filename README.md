@@ -15,12 +15,6 @@ To run the analysis, install the necessary dependencies:
 pip install -r requirements.txt
 ```
 
-## Running the Model
-Execute the main Python script:
-```sh
-python bass_model.py
-```
-
 ## Outputs
 - Estimated Bass Model parameters (`p`, `q`, `M`).
 - Graph showing observed vs. predicted adoption.
